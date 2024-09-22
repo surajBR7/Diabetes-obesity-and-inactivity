@@ -104,3 +104,6 @@ print(f"R-squared: {ml_model.score(X_test, y_test)}")
 ## Conclusion
 
 The regression models provided useful insights into the relationship between diabetes, obesity, and inactivity. The findings indicate that inactivity is a stronger predictor of diabetes rates than obesity, and the multi-linear regression model further supports this correlation.
+
+## Report [(https://github.com)](https://github.com/surajBR7/Diabetes-obesity-and-inactivity/blob/main/MTH_522_project1.pdf) 
+
